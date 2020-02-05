@@ -1,2 +1,2 @@
-# lingvistic_man
+# ml
 For my projects 
